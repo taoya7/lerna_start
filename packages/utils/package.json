@@ -1,0 +1,26 @@
+{
+  "name": "@tao/utils",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "taoya7 <569781231@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}

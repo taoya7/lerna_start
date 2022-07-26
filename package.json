@@ -1,0 +1,23 @@
+{
+  "name": "lerna_start",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js",
+    "ls": "lerna ls",
+    "clean": "lerna clean"
+  },
+  "dependencies": {
+    "lerna": "^5.2.0"
+  },
+  "devDependencies": {
+    "@tao/utils": "1.0.0",
+    "@tao/core": "1.0.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
