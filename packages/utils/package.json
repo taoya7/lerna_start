@@ -1,5 +1,5 @@
 {
-  "name": "@tao/utils",
+  "name": "@itaolin/utils",
   "version": "3.0.0",
   "description": "> TODO: description",
   "author": "taoya7 <569781231@qq.com>",
@@ -23,5 +23,5 @@
   "dependencies": {
     "uuid": "^8.3.2"
   },
-  "gitHead": "e0e6a18644fdf7aeb61015864b18585f7ba9b4c3"
+  "gitHead": "3f7c0c4ae8e91cef7d66daca92f51894899d53de"
 }
