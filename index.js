@@ -1,6 +1,6 @@
 import {
     getUUID
-} from '@tao/utils';
+} from '@itaolin/utils';
 
 console.log(">>> index");
 console.log("utils: " + getUUID());

@@ -14,8 +14,8 @@
     "lerna": "^5.2.0"
   },
   "devDependencies": {
-    "@tao/utils": "1.0.0",
-    "@tao/core": "1.0.0"
+    "@itaolin/utils": "5.0.0",
+    "@itaolin/core": "5.0.0"
   },
   "workspaces": [
     "packages/*"
