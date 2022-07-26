@@ -2,7 +2,7 @@
   "name": "@itaolin/utils",
   "version": "4.0.0",
   "description": "> TODO: description",
-  "author": "taoya7 <569781231@qq.com>",
+  "author": "taoya7 <3335215292@qq.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
@@ -23,5 +23,5 @@
   "dependencies": {
     "uuid": "^8.3.2"
   },
-  "gitHead": "3f7c0c4ae8e91cef7d66daca92f51894899d53de"
+  "gitHead": "1ec9a2ef628e66759aa7f3decc5beed167e7fa20"
 }
