@@ -46,3 +46,13 @@ lerna publish
 
 
 
+同时Git也会有一个Tag
+
+
+
+![image-20220726195144411](https://file.569781231.xyz/building/20220726195144_repeat_1658836304593__919426.png)
+
+
+
+
+
