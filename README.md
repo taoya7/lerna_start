@@ -56,3 +56,9 @@ lerna publish
 
 
 
+
+
+```
+npm install -g nucm
+```
+
