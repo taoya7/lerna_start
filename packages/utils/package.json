@@ -16,7 +16,7 @@
   ],
   "publishConfig": {
     "access": "public",
-    "registry": "https://registry.npmmirror.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
@@ -24,5 +24,5 @@
   "dependencies": {
     "uuid": "^8.3.2"
   },
-  "gitHead": "6def199cd7dcb0fc35882c4e499487992b66c3be"
+  "gitHead": "9efa71f5b8821192fbfcc994bc644309817fa4b7"
 }
