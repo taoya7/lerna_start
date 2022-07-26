@@ -15,6 +15,7 @@
     "lib"
   ],
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmmirror.com/"
   },
   "scripts": {
@@ -23,5 +24,5 @@
   "dependencies": {
     "uuid": "^8.3.2"
   },
-  "gitHead": "c6ac238c47b7d90ef5bf1d99e566df2aba0fea65"
+  "gitHead": "6def199cd7dcb0fc35882c4e499487992b66c3be"
 }
