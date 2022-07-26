@@ -40,3 +40,9 @@ Logged in as taoya7 on https://registry.npmjs.org/.
 lerna publish
 ```
 
+
+
+![image-20220726194928317](https://file.569781231.xyz/building/20220726194928_repeat_1658836168905__179477.png)
+
+
+
